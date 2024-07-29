@@ -1,0 +1,16 @@
+{
+  "name": "dino-game",
+  "version": "1.0.0",
+  "description": "Dinosaur game for Telegram mini-app",
+  "main": "game.js",
+  "scripts": {
+    "start": "http-server",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^3.10.14"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
